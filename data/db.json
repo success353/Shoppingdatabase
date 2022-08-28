@@ -5,6 +5,9 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/triveni_400x.jpg?v=1617089965",
             "productText": "TRIVENI: THE PERFECT TRIO",
+            "subProductText": "Hydrating Face Cream; Brightening Face Cleanser; Balancing Toner (saves you 15%)",
+            "productDescription": "Triveni is a combination of three in sanskrit. This trio of products is the perfect way to simplify your day and has you covered whatever your skin type.",
+            "productContent": "50 ml | 100 ml | 60 ml ",
             "price": 88,
             "reviews": "28 reviews",
             "property": "ON SALE"
@@ -14,6 +17,9 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/cream_400x.jpg?v=1624901800",
             "productText": "HYDRATING FACE CREAM",
+            "subProductText": "Ashwagandha + Turmeric",
+            "productDescription": "Aabha is glowing and radiant in sanskrit. This tri-doshic healing and hydrating cream is your best friend, every single day.",
+            "productContent": "50 ml / 1.7 fl. Oz",
             "price": 44.95,
             "reviews": "24 reviews",
             "property": "ON SALE"
@@ -23,6 +29,9 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/rosehip2_400x.png?v=1617089619",
             "productText": "REGENERATING FACE SERUM",
+            "subProductText": "Wild Himalayan Rosehip Oil ",
+            "productDescription": "Prakashak is luminous in Sanskrit. Our rosehip oil is hand-harvested in the Himalayas.",
+            "productContent": "30 ml / 1 fl. Oz",
             "price": 29.95,
             "reviews": "2 reviews",
             "property": "ON SALE"
@@ -32,6 +41,9 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/tonercolor_400x.jpg?v=1624901753",
             "productText": "BALANCING TONER",
+            "subProductText": "Pure Organic Rose Water",
+            "productDescription": "Santulan is balance in sanskrit and this toner helps restore and maintain your skin's pH levels. The perfect combination of organic roses and fresh himalayan water to bring you relaxation at the start and end of every day.",
+            "productContent": "60 ml / 2 fl. Oz",
             "price": 28.95,
             "reviews": "9 reviews",
             "property": "ON SALE"
@@ -50,6 +62,9 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/apricot2_400x.png?v=1612390326",
             "productText": "NOURISHING ELIXIR",
+            "subProductText": "Orange + Turmeric + Neem",
+            "productDescription": "Taaza is fresh in sanskrit, the way this daily cleanser will make you feel. A refreshing daily companion, always there for you, no matter what your skincare routine.",
+            "productContent": "100 ml / 3.4 fl. Oz",
             "price": 34.95,
             "reviews": "2 reviews",
             "property": "SOLD OUT"
@@ -59,6 +74,9 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/moringa_400x.png?v=1624903416",
             "productText": "HEALING CONCENTRATE",
+            "subProductText": "Pure Organic Moringa Oil",
+            "productDescription": "Raksha is radiance in Sanskrit. Moringa or drumstick leaves are hand-harvested from the tropical forest of India and cold-pressed.",
+            "productContent": "60 ml / 2 fl. Oz",
             "price": 34.95,
             "reviews": "2 reviews",
             "property": "SOLD OUT"
@@ -68,6 +86,8 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/1.2_400x.jpg?v=1612456869",
             "productText": "MIND, BODY, SOUL JOURNAL",
+            "subProductText": "A journal to help you find balance, harmony and simplicity in your everyday life.",
+            "productDescription": "Anand is pure contentment in Sanskrit, the way we hope this journal will make you feel. It's aimed at helping you find balance in your daily life.",
             "price": 9.99,
             "reviews": "No reviews",
             "property": "ON SALE"
@@ -77,6 +97,9 @@
             "productImg":
               "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/trioils_400x.jpg?v=1612456649",
             "productText": "SNEHA: THE STARTER PACK",
+            "subProductText": "Nourishing Elixir, Regenerating Face Serum, Healing Concentrate",
+            "productDescription": "Sneha is love in Sanskrit, the same word for oil. Being saturated with oils physically, has a similar effect as being filled with love. This three pack will help you stay oiled and loved up.",
+            "productContent": "60 ml | 30 ml | 60 ml",
             "price": 84,
             "reviews": "2 reviews",
             "property": "ON SALE"
