@@ -1,0 +1,85 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/triveni_400x.jpg?v=1617089965",
+            "productText": "TRIVENI: THE PERFECT TRIO",
+            "price": 88,
+            "reviews": "28 reviews",
+            "property": "ON SALE"
+          },
+          {
+            "id": 2,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/cream_400x.jpg?v=1624901800",
+            "productText": "HYDRATING FACE CREAM",
+            "price": 44.95,
+            "reviews": "24 reviews",
+            "property": "ON SALE"
+          },
+          {
+            "id": 3,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/rosehip2_400x.png?v=1617089619",
+            "productText": "REGENERATING FACE SERUM",
+            "price": 29.95,
+            "reviews": "2 reviews",
+            "property": "ON SALE"
+          },
+          {
+            "id": 4,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/tonercolor_400x.jpg?v=1624901753",
+            "productText": "BALANCING TONER",
+            "price": 28.95,
+            "reviews": "9 reviews",
+            "property": "ON SALE"
+          },
+          {
+            "id": 5,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/Facewash_400x.jpg?v=1624960848",
+            "productText": "BRIGHTENING FACE CLEANSER",
+            "price": 31.95,
+            "reviews": "14 reviews",
+            "property": "ON SALE"
+          },
+          {
+            "id": 6,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/apricot2_400x.png?v=1612390326",
+            "productText": "NOURISHING ELIXIR",
+            "price": 34.95,
+            "reviews": "2 reviews",
+            "property": "SOLD OUT"
+          },
+          {
+            "id": 7,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/moringa_400x.png?v=1624903416",
+            "productText": "HEALING CONCENTRATE",
+            "price": 34.95,
+            "reviews": "2 reviews",
+            "property": "SOLD OUT"
+          },
+          {
+            "id": 8,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/1.2_400x.jpg?v=1612456869",
+            "productText": "MIND, BODY, SOUL JOURNAL",
+            "price": 9.99,
+            "reviews": "No reviews",
+            "property": "ON SALE"
+          },
+          {
+            "id": 9,
+            "productImg":
+              "https://cdn.shopify.com/s/files/1/0498/8764/1749/products/trioils_400x.jpg?v=1612456649",
+            "productText": "SNEHA: THE STARTER PACK",
+            "price": 84,
+            "reviews": "2 reviews",
+            "property": "ON SALE"
+          }
+    ]
+}
